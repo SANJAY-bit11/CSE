@@ -1,0 +1,1 @@
+press ctrl + shift + T ===> to take back again all closed apps in chrome
