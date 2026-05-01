@@ -1,2 +1,6 @@
 This is My first File
+<<<<<<< master
+now i am editing this file
+=======
 take one banana before workout
+>>>>>>> main
