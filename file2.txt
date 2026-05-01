@@ -1,2 +1,3 @@
 hello world
 I am learning Git and GitHub
+now i am adding new information to this file to check is this file is comiited or not
